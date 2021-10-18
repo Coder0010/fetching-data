@@ -17,9 +17,13 @@ Switch to the repo folder
 
 1 Prepare the project
 
-    run composer i
+    run composer i && composer dump-autoload -o
 
 2 open src\Env file to set your config of database
+
+3 run
+
+    php index.php 
 
 ---
 # Task Core Files
