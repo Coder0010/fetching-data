@@ -1,16 +1,16 @@
-# mts-fetching-data
+# fetching-data
 
 ## Step One Clone Repo
 
-    git clone git@github.com:coder0010/mts-fetching-data
+    git clone git@github.com:coder0010/fetching-data
 
 or you can download it by the desktop application of github
 
-    https://github.com/coder0010/mts-fetching-data
+    https://github.com/coder0010/fetching-data
 
 Switch to the repo folder
 
-    cd mts-fetching-data
+    cd fetching-data
 
 ---
 ## Step Two Prepare Project
